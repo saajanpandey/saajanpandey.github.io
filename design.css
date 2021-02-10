@@ -1,0 +1,451 @@
+
+.one{
+
+			text-align: center;
+			font-size: 45px;
+			font-weight: bold;
+		}
+		.two{
+
+			width: 100%;
+			height: 80px;
+			background-color: #491927;
+		}
+		.logo
+		{
+		  padding:10px 0 0 75px; 
+		}
+		.buttons1{
+			float: right;
+			margin-top: -55px;
+			margin-right:600px;
+			display:inline-block;
+			text-decoration: none;
+			border: none;
+			cursor: pointer;
+			text-align: center;
+			font-size: 16px;
+			color: white;
+		    background-color: #491927;
+		    padding:10px 10px;
+		}
+		.buttons2{
+			float: right;
+			margin-top: -55px;
+			margin-right:500px;
+			display:inline-block;
+			text-decoration: none;
+			border: none;
+			cursor: pointer;
+			text-align: center;
+			font-size: 16px;
+			color: white;
+		    background-color: #491927;
+		    padding:10px 10px;
+
+		}
+		.buttons3{
+			float: right;
+			margin-top: -55px;
+			margin-right:400px;
+			display:inline-block;
+			text-decoration: none;
+			border: none;
+			cursor: pointer;
+			text-align: center;
+			font-size: 16px;
+			color: white;
+		    background-color: #491927;
+		    padding:10px 10px;
+
+		}
+		.buttons4{
+			float: right;
+			margin-top: -55px;
+			margin-right:300px;
+			display:inline-block;
+			text-decoration: none;
+			border: none;
+			cursor: pointer;
+			text-align: center;
+			font-size: 16px;
+			color: white;
+		    background-color: #491927;
+		    padding:10px 10px;
+
+		}
+		.buttons1:hover{
+			border-radius: 5px;
+			background-color: white;
+			padding:10px 10px;
+			color: #491927;
+		}
+			.buttons2:hover{
+		    border-radius: 5px;
+			background-color: white;
+			padding:10px 10px;
+			color: #491927;
+		}
+			.buttons3:hover{
+			border-radius: 5px;
+			background-color: white;
+			padding:10px 10px;
+			color: #491927;
+		}
+			.buttons4:hover{
+			border-radius: 5px;
+			background-color: white;
+			padding:10px 10px;
+			color: #491927;
+		}
+		.social1{
+			float: right;
+			margin-top: -42px;
+			margin-right:200px;
+            color: white;
+		}
+		.social2{
+			float: right;
+			margin-top: -42px;
+			margin-right:150px;
+            color: white;
+		}
+		.social3{
+			float: right;
+			margin-top: -42px;
+			margin-right:100px;
+            color: white;
+		}
+        .four{
+        	width: 100%;
+        	height: 320px;
+        	background-color: #F4F0EF;
+        	text-align: center;
+        	margin-top: -4px;
+        }
+        .four1{
+       		display: block;
+  			margin-left: 550px;
+ 			margin-right: 550px;
+ 			border-style: inset;
+ 		 	border-width: 1.5px;
+ 		 	margin-top: -20px;
+ 		 	margin-bottom: 15px;
+  			border-color: #F5C14D;
+        }
+		.ism-slider
+		{
+		}
+		.five{
+            width: 100%;
+        	height: 320px;
+        	background-color:#F4F0EF;
+        	text-align: center;
+        	
+       		
+		}
+		.five1{
+		
+			display: block;
+ 			margin-left: 550px;
+ 			margin-right: 550px;
+  			border-style: inset;
+  			border-width: 1.5px;
+  			margin-top: -20px;
+  			margin-bottom: 15px;
+  			border-color: #F5C14D;
+		}
+		.five2{
+		
+			margin-top: 25px;
+			width: 50px;
+            height: 42px;
+            border-color: #491927;
+            background-color:#491927; 
+            margin-left: 100px;
+            color: white;
+            padding-top:10px;
+		}
+		.five3{
+           width: 190px; 
+           text-align: left;
+ 		  word-break: keep-all;
+ 		  margin-left: 155px;
+ 		  margin-top: -52px;
+
+		}
+		.five4{
+			
+			margin-top: 25px;
+			width: 50px;
+            height: 42px;
+            border-color: #491927;
+            background-color:#491927; 
+            margin-left: 100px;
+            color: white;
+            padding-top:10px;
+		}
+		.five5{
+			
+			 width: 190px; 
+           text-align: left;
+ 		  word-break: keep-all;
+ 		  margin-left: 155px;
+ 		  margin-top: -52px;
+		}
+		.mix2{
+			float: right;
+			margin-top: -120px;
+			margin-right: 700px;
+		}
+		.five6{
+			
+			margin-top: 25px;
+			width: 50px;
+            height: 42px;
+            border-color: #491927;
+            background-color:#491927; 
+            margin-left: 100px;
+            color: white;
+            padding-top:10px;
+		}
+		.five7{
+			
+			 width: 190px; 
+           text-align: left;
+ 		  word-break: keep-all;
+ 		  margin-left: 155px;
+ 		  margin-top: -52px;
+		}
+		.mix3{
+			float: right;
+			margin-top: -120px;
+			margin-right: 400px;
+		}
+		.five8{
+			
+			margin-top: 25px;
+			width: 50px;
+            height: 42px;
+            border-color: #491927;
+            background-color:#491927; 
+            margin-left: 100px;
+            color: white;
+            padding-top:10px;
+		}
+		.five9{
+			 width: 190px; 
+           text-align: left;
+ 		  word-break: keep-all;
+ 		  margin-left: 155px;
+ 		  margin-top: -52px;
+		}
+		.mix4{
+			float: right;
+			margin-top: -120px;
+		    margin-right :100px;
+		}
+		.calendarbutton{
+			float: right;
+			margin-top: 50px;
+			margin-right:600px;
+			display:inline-block;
+			text-decoration: none;
+			border: none;
+			cursor: pointer;
+			text-align: center;
+			font-size: 16px;
+			color: white;
+		    background-color: #491927;
+		    padding:10px 10px;
+		    border-radius: 5px;
+		}
+		.calendarbutton:hover{
+			border-radius: 5px;
+			background-color: white;
+			padding:10px 10px;
+			color: #491927;
+		}
+		.six{
+			width: 100%;
+			height: 320px;
+			background-color: #491927;
+		}
+		.six1 img{
+			margin-top: 60px;
+			margin-left: 150px;
+		}
+		.six2 img{
+			float:right;	
+			margin-top: -204px;
+			margin-right:750px;
+		}
+		.six3 img{
+			float:right;	
+			margin-top: -204px;
+			margin-right: 500px;
+		}
+		.six4 img{
+			float:right;	
+			margin-top: -204px;
+			margin-right: 230px;
+		}
+		.six1 img:hover{
+				cursor: pointer;
+			}
+		.six2 img:hover{			  
+				cursor: pointer;   				
+		}
+		.six3 img:hover{			  
+				cursor: pointer; 				
+		}
+		.six4 img:hover{	  
+				cursor: pointer;			
+		}
+		.seven{
+			  width: 100%;
+        	height: 400px;
+        	background-color:#F4F0EF;
+		}
+		.seven1 img{
+			float: right;
+		}
+		.seven2{
+	        margin-left: 55px;
+		}
+		.seven3{
+			display: block;
+  			margin-left: 1px;
+ 			margin-right:1060px;
+ 			border-style: inset;
+ 		 	border-width: 1.5px;
+ 		 	margin-top: 10px;
+ 		 	margin-bottom: 15px;
+  			border-color: #F5C14D;
+		}
+		.seven4{
+			margin-top: 2px;
+		}
+		.seven5{
+			 width: 400px; 
+           text-align: left;
+ 		  word-break: keep-all;
+ 		  margin-top: 18px;
+		}
+		.seven6{
+			margin-top: 15px;
+			margin-left: 50px;
+			display:inline-block;
+			text-decoration: none;
+			border: none;
+			cursor: pointer;
+			text-align: center;
+			font-size: 16px;
+			color: white;
+		    background-color: #491927;
+		    padding:10px 30px;
+		    border-radius: 2px;
+		}
+		.seven6:hover{
+			border-radius: 2px;
+			background-color: white;
+			padding:10px 30px;
+			color: #491927;
+
+		}
+		.eight{
+			width: 100%;
+			height: 80px;
+			background-color:#6E5F5C;	
+		}
+		.eight1{
+			margin-top: 20px;
+			margin-left: 550px;
+			display:inline-block;
+			text-decoration: none;
+			border: none;
+			cursor: pointer;
+			text-align: center;
+			font-size: 16px;
+			color: white;
+		    background-color: #491927;
+		    padding:10px 30px;
+		    border-radius: 2px;
+
+		}
+		.eight1:hover{
+			border-radius: 2px;
+			background-color: white;
+			padding:10px 30px;
+			color: #491927;
+		}
+		.eight2{
+			margin-top: 20px;
+			margin-left: 100px;
+			display:inline-block;
+			text-decoration: none;
+			border: none;
+			cursor: pointer;
+			text-align: center;
+			font-size: 16px;
+			color: white;
+		    background-color: #491927;
+		    padding:10px 30px;
+		    border-radius: 2px;
+		}
+		.eight2:hover{
+			border-radius: 2px;
+			background-color: white;
+			padding:10px 30px;
+			color: #491927;
+		}
+		.nine{
+		}
+		.ten{
+		    margin-top: 0px;
+			width: 100%;
+			height: 200px;
+			background-color: #491926;
+		}
+		.ten1{
+			padding-top: 50px;
+			padding-left: 50px;
+		}
+		.ten2{
+             float: right;
+             margin-top:-131px;
+             margin-right: 150px;
+		}
+		.ten2 a{
+			text-decoration: none;
+		}
+		.ten3{
+             float: right;
+             margin-top:-131px;
+             margin-right: 100px;
+		}
+		.ten3 a{
+			text-decoration: none;
+		}
+		.social4{
+			float: right;
+			margin-top: -90px;
+			margin-right:200px;
+            color: white;
+		}
+		.social5{
+			float: right;
+			margin-top: -90px;
+			margin-right:145px;
+            color: white;
+		}
+		.social6{
+			float: right;
+			margin-top: -90px;
+			margin-right:100px;
+            color: white;
+		}
+		.social1,.social2,.social3,.social4,.social5,.social6:hover{
+			cursor: pointer;
+
+		}
